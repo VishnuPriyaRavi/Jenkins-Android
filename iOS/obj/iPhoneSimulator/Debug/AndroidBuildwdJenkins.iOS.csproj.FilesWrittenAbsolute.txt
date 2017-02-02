@@ -1,0 +1,15 @@
+/Users/vishnupriya/Projects/AndroidBuildwdJenkins/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/vishnupriya/Projects/AndroidBuildwdJenkins/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/vishnupriya/Projects/AndroidBuildwdJenkins/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/vishnupriya/Projects/AndroidBuildwdJenkins/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/vishnupriya/Projects/AndroidBuildwdJenkins/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/vishnupriya/Projects/AndroidBuildwdJenkins/iOS/bin/iPhoneSimulator/Debug/AndroidBuildwdJenkins.iOS.exe.mdb
+/Users/vishnupriya/Projects/AndroidBuildwdJenkins/iOS/bin/iPhoneSimulator/Debug/AndroidBuildwdJenkins.iOS.exe
+/Users/vishnupriya/Projects/AndroidBuildwdJenkins/iOS/obj/iPhoneSimulator/Debug/AndroidBuildwdJenkins.iOS.exe
+/Users/vishnupriya/Projects/AndroidBuildwdJenkins/iOS/obj/iPhoneSimulator/Debug/AndroidBuildwdJenkins.iOS.exe.mdb
+/Users/vishnupriya/Projects/AndroidBuildwdJenkins/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/vishnupriya/Projects/AndroidBuildwdJenkins/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/vishnupriya/Projects/AndroidBuildwdJenkins/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/vishnupriya/Projects/AndroidBuildwdJenkins/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/vishnupriya/Projects/AndroidBuildwdJenkins/iOS/bin/iPhoneSimulator/Debug/AndroidBuildwdJenkins.dll
+/Users/vishnupriya/Projects/AndroidBuildwdJenkins/iOS/bin/iPhoneSimulator/Debug/AndroidBuildwdJenkins.dll.mdb
